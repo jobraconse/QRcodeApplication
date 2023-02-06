@@ -8,6 +8,10 @@ Load in the left pane a QRcode image push >>> and watch the decode in the right 
 
 Clear fields
 
-Type some text in the right pana, click <<< and in the left pane the QRcode will show up.
+Type some text in the right pane, click <<< and in the left pane the QRcode will show up.
 
+To use the code, create a virtual python environment and run pip install -r requirements.txt to run the code.
 
+Then just run python main.py to start the application.
+
+Cheers!
